@@ -2305,6 +2305,11 @@
       "description": "Neural Network based OCR lib.",
       "homepage": "https://github.com/garnele007/SwiftOCR"
     }, {
+      "title": "Periphery",
+      "category": "quality",
+      "description": "A tool to find unused Swift code.",
+      "homepage": "https://peripheryapp.com"
+    }, {
       "title": "SwiftLint",
       "category": "quality",
       "description": "A tool to enforce coding conventions.",
